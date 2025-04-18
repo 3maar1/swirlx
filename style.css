@@ -1,0 +1,21 @@
+p{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;}
+    h1{text-align :center}
+    img{float: right;}
+    body{background-image: url("wave-background-abstract-gradient-design_483537-3688.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    }
+    h1{color: white;
+        font-family: 'Times New Roman', Times, serif; 
+        opacity: 1.0;}
+footer{
+color: white;
+font-family: 'Times New Roman', Times, serif;
+}
+div{
+color: white;
+font-family: 'Times New Roman', Times, serif;
+}
